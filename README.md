@@ -8,5 +8,7 @@ After the data is pre-processed, we need to apply the K-means algortihm which is
 Before applying the algorithm, it is important to figure out the optimal number of clusters for which the algortihm needs to run on. For this purpose, we have used the elbow method by running the algo on a range of numbers and then plotting a graph of  within cluseter sum of squares(WCSS)and the number of clusters given in figure 'elbow_method.png'.
 The final output gets generated in the 'clustered_final_1.csv' file.
 
+Data files deleted due to confidentiality purposes.
+
 
 
